@@ -1,0 +1,6 @@
+h1. Identification of PAX6 and KLF3 as candidate driver genes in late-stage, hypermutated endometrioid endometrial carcinomas
+
+p. This repository contains R scripts and data files used to perform power calculations and 
+re-calculate q-values for MutSigCV analyses of mutations in early- and late-stage endometrial
+cancers.
+
